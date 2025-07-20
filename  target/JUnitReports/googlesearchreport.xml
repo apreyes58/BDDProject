@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="23.989" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-07-16T03:56:45.435063800Z">
+<testcase classname="feature to search up an important question" name="google search works" time="23.86">
+<system-out><![CDATA[
+Given browser is opened.....................................................passed
+And user is on google search page...........................................passed
+When user enters a text in search box.......................................passed
+And enters the search.......................................................passed
+Then user navigates the search result.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
